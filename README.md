@@ -1,2 +1,2 @@
 # Data Mirror
-An easy way to synchronize data between Redis and Cassandra with an only JSON config file.
+An easy way to synchronize data between Redis and Cassandra with only a JSON config file.
